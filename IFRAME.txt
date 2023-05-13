@@ -1,1 +1,28 @@
 https://blog.betrybe.com/html/iframe-html/
+
+
+
+
+git clone Nome do repositorio
+cd nome do diretorio
+touch at.txt
+git config --global user.name "Nome"
+git config --global user.email "Digte o seu email"
+git add .
+git commit -m "Descreva o que fez no repositorio"
+git push
+
+Criar Branch DEV
+git branch dev
+touch dev.txt
+git add .
+git commit -m "Descricao"
+git push
+git push --set upstream origin dev
+
+git checkout main - Muda o Branch
+
+git merge main
+
+
+
