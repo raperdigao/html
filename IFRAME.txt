@@ -5,6 +5,8 @@ https://blog.betrybe.com/html/iframe-html/
 
 git clone Nome do repositorio
 cd nome do diretorio
+pwd
+ls
 touch at.txt
 git config --global user.name "Nome"
 git config --global user.email "Digte o seu email"
