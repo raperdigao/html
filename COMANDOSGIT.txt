@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=nINngLKg4OU
 
 https://www.youtube.com/watch?v=O_e09FRpzW0 (Menu vertical abrir na mesma pagina)
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/display (Site do Mozila para ver parametros CSS Flex)
+
 
 
 
